@@ -1,2 +1,2 @@
-# giflib2.github.io
+# giflib2
 Java Spring testing repository
